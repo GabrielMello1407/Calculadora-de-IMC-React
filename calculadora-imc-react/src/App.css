@@ -1,6 +1,8 @@
 .container{
   min-width: 400px;
   min-height: 400px;
-  background-color: #1d1e33;
+  background-color: #000114;
+  opacity: .9;
   padding: 2rem;
+  border-radius: 15px;
 }
